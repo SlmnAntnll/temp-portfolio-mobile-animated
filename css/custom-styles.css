@@ -19,7 +19,6 @@ body {
   a:hover {color: #23272b;}
 
 
-.none, #navbarResponsive.none {display: none !important;}
 
 .jumbotron {
   background: url("../img/About-Sol-Elijah.jpg") no-repeat top left;
